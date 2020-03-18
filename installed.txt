@@ -1,0 +1,8 @@
+com.kalessil.phpStorm.phpInspectionsEA
+de.espend.idea.localization
+de.espend.idea.php.annotation
+fr.adrienbrault.idea.symfony2plugin
+lv.midiana.misc.phpstorm-plugins.deep-keys
+org.psliwa.idea.composer
+ru.adelf.idea.dotenv
+zielu.gittoolbox
